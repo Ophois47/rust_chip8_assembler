@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"assert_eq\tassert_eq!(…, …)"
+			],
+			[
+				"assr",
+				"assert_eq\tassert_eq!(…, …)"
+			],
+			[
+				"en",
+				"end_point"
+			],
+			[
+				"Vec",
+				"VecDeque"
+			],
+			[
+				"O",
+				"Optional"
+			],
+			[
+				"Ie",
+				"Iterator"
+			],
+			[
+				"Num",
+				"Number"
+			],
+			[
+				"le",
+				"LexItem"
+			],
+			[
+				"parse",
+				"parse_expr"
+			],
+			[
+				"par",
+				"parse_term"
+			],
+			[
+				"node",
+				"node_term"
+			],
+			[
+				"pr",
+				"Product"
+			],
+			[
+				"parse_",
+				"parse_summand"
+			],
+			[
+				"next",
+				"next_pos"
+			],
+			[
+				"Par",
+				"ParseNode"
+			],
+			[
+				"Pa",
+				"ParseNode"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"dav",
+				"dave_array"
+			],
+			[
+				"siz",
+				"size_t"
+			],
+			[
+				"si",
+				"size_t"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"str",
+				"string_david"
+			],
+			[
+				"talk",
+				"talkable"
+			],
+			[
+				"hex",
+				"hex_color"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"ta",
+				"take_while_m_n"
+			],
+			[
+				"thi",
+				"this_icon"
+			],
+			[
+				"a",
+				"a_boolean"
+			],
+			[
+				"pritn",
+				"println\tprintln!(…)"
+			],
+			[
+				"Bu",
+				"BufReader"
+			],
+			[
+				"nor",
+				"norm"
+			],
+			[
+				"con",
+				"conjugate"
+			],
+			[
+				"inner",
+				"inner_height"
+			],
+			[
+				"inn",
+				"inner_y"
+			],
+			[
+				"panic",
+				"panic_fmt"
+			],
+			[
+				"bot",
+				"bot_str"
+			],
+			[
+				"slee",
+				"sleep_time"
+			],
+			[
+				"pri",
+				"print_state"
+			],
+			[
+				"p",
+				"p_buckets"
+			],
+			[
+				"e",
+				"e_buckets"
+			],
+			[
+				"ind",
+				"ind_sample"
+			],
+			[
+				"m",
+				"multiplier"
+			],
+			[
+				"ip",
+				"ip_port"
+			],
+			[
+				"i",
+				"ip_iter"
+			],
+			[
+				"host",
+				"host_port"
+			],
+			[
+				"oe",
+				"oe6"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"arr",
+				"array3"
+			],
+			[
+				"arra",
+				"array1"
+			],
+			[
+				"asser",
+				"assert_eq\tassert_eq!(…, …)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/david/Documents/Programs/Rust/linkety-lists/src/first.rs",
+		"/home/david/Documents/Programs/Rust/linkety-lists/src/lib.rs",
+		"/linkety-lists",
+		"/home/david/Documents/Programs/Rust/breadth_first_search/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/breadth_first_search/src/main.rs",
+		"/home/david/Documents/Programs/Rust/num_parse/src/main.rs",
+		"/home/david/Documents/Programs/Rust/daves_rust_parser/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/daves_rust_parser/src/main.rs",
+		"/home/david/Documents/Programs/C/Parsers/dave_parser2.c",
+		"/home/david/Documents/Programs/C/Parsers/dave_parser1.c",
+		"/home/david/Documents/Programs/Rust/garb_coll/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/garb_coll/src/main.rs",
+		"/home/david/Documents/Programs/Rust/test_playground/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/test_playground/src/main.rs",
+		"/home/david/Documents/Programs/Rust/guessing_game/guessing_game/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/guessing_game/guessing_game/src/main.rs",
+		"/home/david/Documents/Programs/Rust/systems/search_records/src/main.rs",
+		"/home/david/Documents/Programs/Rust/systems/utf_8_encode_decode/src/main.rs",
+		"/home/david/Documents/Programs/Rust/systems/utf_8_encode_decode/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/systems/regex/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/systems/regex/src/main.rs",
+		"/home/david/Documents/Programs/Rust/systems/read_file/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/systems/read_file/file.txt",
+		"/home/david/Documents/Programs/Rust/systems/read_file/src/main.rs",
+		"/home/david/Documents/Programs/Rust/quaternion/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/quaternion/src/main.rs",
+		"/home/david/Documents/Programs/Rust/julia_display/src/main.rs",
+		"/home/david/Documents/Programs/Rust/julia_display/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/ways_to_fibonacci/src/main.rs",
+		"/home/david/Documents/Programs/Rust/ways_to_fizzbuzz/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/ways_to_fibonacci/src/main.r",
+		"/home/david/Documents/Programs/Rust/ways_to_fizzbuzz/src/main.rs",
+		"/home/david/Documents/Programs/Rust/find_doc/src/main.rs",
+		"/home/david/Documents/Programs/Rust/atomic_update/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/atomic_update/src/main.rs",
+		"/home/david/Documents/Programs/Rust/rust_clock/src/main.rs",
+		"/home/david/Documents/Programs/Rust/rust_clock/Cargo.toml",
+		"/home/david/Documents/Programs/Rust/associative_merge/src/main.rs",
+		"/home/david/Documents/Programs/Rust/dns_lookup/src/main.rs",
+		"/home/david/Documents/Programs/Rust/rmean_squared/src/main.rs",
+		"/home/david/Documents/Programs/Rust/dns_query/src/main.rs",
+		"/home/david/Documents/Programs/Rust/loop_ex/src/main.rs",
+		"/home/david/Documents/Programs/Rust/arrays/src/main.rs",
+		"/home/david/Documents/Programs/Rust/rust_test/src/main.rs"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lib.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
