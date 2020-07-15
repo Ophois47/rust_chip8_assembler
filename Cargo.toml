@@ -1,5 +1,5 @@
 [package]
-name = "chip8_assembly"
+name = "chip8_assembler"
 version = "0.1.0"
 authors = ["david"]
 edition = "2018"

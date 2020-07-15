@@ -11,9 +11,9 @@ fn main() {
 		}
 	);
 
-	match assembler::assemble(input_data) {
+	match chip8_assembler::assembler::assemble(input_data) {
 		Ok(data) => {
-			write_to_file(data)
+			chip8_assembler::write_to_file(data)
 		},
 
 		Err(e) => println!("{:?}", e)
